@@ -1,7 +1,5 @@
 package com.example.ktorsample
 
-import android.util.Log
-import android.view.View
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
@@ -23,6 +21,13 @@ class MainViewModel : ViewModel() {
         CoroutineScope(Dispatchers.Main).launch {
             val result = ApiClient().requestMoveSearch("red")
             _resultData.value = result
+        }
+    }
+
+    fun getDataPost() {
+        CoroutineScope(Dispatchers.Main).launch {
+            val response = ApiClient().requestMoveSearchPost(ApiRequest("red"))
+            _resultData.value = response
         }
     }
 

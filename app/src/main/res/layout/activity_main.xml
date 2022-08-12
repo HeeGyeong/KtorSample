@@ -21,6 +21,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             android:gravity="center_horizontal"
             android:orientation="vertical">
+
             <Button
                 android:id="@+id/get_movie_btn"
                 android:layout_width="wrap_content"
@@ -28,6 +29,15 @@
                 android:text="Get Api Data"
                 android:layout_marginTop="30dp"
                 android:onClick="@{() -> vm.getMovieList()}" />
+
+            <Button
+                android:id="@+id/get_post_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Get Api Data (Post)"
+                android:layout_marginTop="30dp"
+                android:onClick="@{() -> vm.getDataPost()}" />
+
             <Button
                 android:id="@+id/set_movie_btn"
                 android:layout_width="wrap_content"

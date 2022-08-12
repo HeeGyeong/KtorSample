@@ -27,6 +27,7 @@ class ApiClient {
                     Log.d("ktorLogger", "message : $message")
                 }
             }
+//            logger = Logger.DEFAULT
 
             level = LogLevel.ALL
         }
@@ -38,6 +39,11 @@ class ApiClient {
                 isLenient = true
                 encodeDefaults = true
             })
+
+            // implementation "io.ktor:ktor-serialization-gson:$ktor_version"
+//            gson {  }
+            // implementation "io.ktor:ktor-serialization-jackson:$ktor_version"
+//            jackson {  }
         }
 
         install(HttpTimeout) {
@@ -77,10 +83,26 @@ class ApiClient {
             }
         }
 
-    suspend fun requestMoveSearchData(query: String, start: Int = 1, display: Int = 15) =
+    suspend fun requestMoveSearchData(
+        query: String,
+        start: Int = 1,
+        display: Int = 15,
+    ): List<DataEntity> =
         client.get(BASE_URL + "v1/search/movie.json") {
             parameter("query", query)
             parameter("start", start)
             parameter("display", display)
         }.body<ApiResponse>().items
+
+    /**
+     * post 방식으로 통신할 경우, Request object를 만들어서 setBody를 통해 설정해준다.
+     *
+     * 해당 api에서는 post를 사용하지 않아 에러가 발생한다.
+     *
+     * Log로 데이터 확인.
+     */
+    suspend fun requestMoveSearchPost(apiRequest: ApiRequest) =
+        client.post(BASE_URL + "v1/search/movie.json") {
+            setBody(apiRequest)
+        }.bodyAsText()
 }
