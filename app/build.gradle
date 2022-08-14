@@ -38,8 +38,6 @@ android {
 }
 
 dependencies {
-    def ktor_version = "2.0.3"
-
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.appcompat:appcompat:1.4.2'
     implementation 'com.google.android.material:material:1.6.1'
@@ -52,13 +50,12 @@ dependencies {
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.2'
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.2'
 
+    // ktor
+    def ktor_version = "2.0.3"
     implementation "io.ktor:ktor-client-core:$ktor_version"
     implementation "io.ktor:ktor-client-cio:$ktor_version"
-
     implementation "io.ktor:ktor-client-serialization:$ktor_version"
     implementation "io.ktor:ktor-client-logging-jvm:$ktor_version"
     implementation "io.ktor:ktor-client-content-negotiation:$ktor_version"
     implementation "io.ktor:ktor-serialization-kotlinx-json:$ktor_version"
-    implementation "io.ktor:ktor-serialization-gson:$ktor_version"
-    implementation "io.ktor:ktor-serialization-jackson:$ktor_version"
 }
