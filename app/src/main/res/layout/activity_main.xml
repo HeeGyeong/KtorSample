@@ -5,7 +5,7 @@
     <data>
         <variable
             name="vm"
-            type="com.example.ktorsample.MainViewModel" />
+            type="com.example.ktorsample.view.MainViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
