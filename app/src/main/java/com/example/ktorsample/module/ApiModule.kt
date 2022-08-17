@@ -1,6 +1,8 @@
 package com.example.ktorsample.module
 
 import android.util.Log
+import com.example.ktorsample.api.ApiInterface
+import com.example.ktorsample.api.ApiService
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
@@ -20,6 +22,12 @@ import javax.inject.Singleton
 @Module
 @InstallIn(SingletonComponent::class)
 object ApiModule {
+
+    @Singleton
+    @Provides
+    fun provideApiService(client: HttpClient): ApiInterface {
+        return ApiService(client)
+    }
 
     @Singleton
     @Provides
