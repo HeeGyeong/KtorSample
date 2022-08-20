@@ -2,9 +2,10 @@
   <library name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/5359aed6352df599880ff30479aa4b4b/transformed/core-runtime-2.1.0/res" />
-      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/5359aed6352df599880ff30479aa4b4b/transformed/core-runtime-2.1.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/5359aed6352df599880ff30479aa4b4b/transformed/core-runtime-2.1.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/5359aed6352df599880ff30479aa4b4b/transformed/core-runtime-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/e6b5a7d3087df8f08bb224aedc392f04/transformed/core-runtime-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/e6b5a7d3087df8f08bb224aedc392f04/transformed/core-runtime-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/e6b5a7d3087df8f08bb224aedc392f04/transformed/core-runtime-2.1.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

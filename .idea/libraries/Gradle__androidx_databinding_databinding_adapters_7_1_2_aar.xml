@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.databinding:databinding-adapters:7.1.2@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/0547b8cacee03f158c36a4ad6140418f/transformed/databinding-adapters-7.1.2/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/0547b8cacee03f158c36a4ad6140418f/transformed/databinding-adapters-7.1.2/res" />
-      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/0547b8cacee03f158c36a4ad6140418f/transformed/databinding-adapters-7.1.2/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/9b870a45fb90cd4a4803769b3d1751dc/transformed/databinding-adapters-7.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/9b870a45fb90cd4a4803769b3d1751dc/transformed/databinding-adapters-7.1.2/res" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/9b870a45fb90cd4a4803769b3d1751dc/transformed/databinding-adapters-7.1.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -3,8 +3,9 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/1fa97d78a820cbdb42acb28b0e0e2f74/transformed/runner-1.4.0/res" />
       <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/1fa97d78a820cbdb42acb28b0e0e2f74/transformed/runner-1.4.0/res" />
-      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/1fa97d78a820cbdb42acb28b0e0e2f74/transformed/runner-1.4.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/1fa97d78a820cbdb42acb28b0e0e2f74/transformed/runner-1.4.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/9f0103aaeb4d1253b2b082b48f60298b/transformed/runner-1.4.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/9f0103aaeb4d1253b2b082b48f60298b/transformed/runner-1.4.0/res" />
+      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/9f0103aaeb4d1253b2b082b48f60298b/transformed/runner-1.4.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/modules-2/files-2.1/androidx.test/runner/1.4.0/aee6a62a26d9b413dadc1732e66cc4ef3bcf9d61/runner-1.4.0-javadoc.jar!/" />

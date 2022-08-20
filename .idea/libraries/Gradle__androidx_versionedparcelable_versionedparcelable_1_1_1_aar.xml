@@ -2,9 +2,10 @@
   <library name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/2fa1a348c1840df5c22911fdbc068329/transformed/versionedparcelable-1.1.1/res" />
-      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/2fa1a348c1840df5c22911fdbc068329/transformed/versionedparcelable-1.1.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/2fa1a348c1840df5c22911fdbc068329/transformed/versionedparcelable-1.1.1/res" />
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/2fa1a348c1840df5c22911fdbc068329/transformed/versionedparcelable-1.1.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/8c3b7b790d9fab2b2b3a7c9ae4370767/transformed/versionedparcelable-1.1.1/res" />
+      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/8c3b7b790d9fab2b2b3a7c9ae4370767/transformed/versionedparcelable-1.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/8c3b7b790d9fab2b2b3a7c9ae4370767/transformed/versionedparcelable-1.1.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

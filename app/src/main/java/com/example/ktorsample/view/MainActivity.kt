@@ -13,7 +13,12 @@ import dagger.hilt.android.AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
+    // Hilt - import androidx.activity.viewModels
     private val viewModel: MainViewModel by viewModels()
+
+    // Koin - import org.koin.androidx.viewmodel.ext.android.viewModel
+//    private val viewModel: MainViewModel by viewModel()
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

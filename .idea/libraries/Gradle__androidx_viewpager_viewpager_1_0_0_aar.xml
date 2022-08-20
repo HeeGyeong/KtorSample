@@ -2,9 +2,10 @@
   <library name="Gradle: androidx.viewpager:viewpager:1.0.0@aar">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/40550251c38ec607791d9ca1323885d8/transformed/viewpager-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/40550251c38ec607791d9ca1323885d8/transformed/viewpager-1.0.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/40550251c38ec607791d9ca1323885d8/transformed/viewpager-1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/40550251c38ec607791d9ca1323885d8/transformed/viewpager-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/34e5d6565457801c0e7630d8c96bb583/transformed/viewpager-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/34e5d6565457801c0e7630d8c96bb583/transformed/viewpager-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/34e5d6565457801c0e7630d8c96bb583/transformed/viewpager-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

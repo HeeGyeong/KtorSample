@@ -3,8 +3,9 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/d3ad79c1a39f223d0fe38abc3542b37b/transformed/loader-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/d3ad79c1a39f223d0fe38abc3542b37b/transformed/loader-1.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/d3ad79c1a39f223d0fe38abc3542b37b/transformed/loader-1.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/d3ad79c1a39f223d0fe38abc3542b37b/transformed/loader-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/939015dec0d443c45c2a174bd6ac86f8/transformed/loader-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/939015dec0d443c45c2a174bd6ac86f8/transformed/loader-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/939015dec0d443c45c2a174bd6ac86f8/transformed/loader-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

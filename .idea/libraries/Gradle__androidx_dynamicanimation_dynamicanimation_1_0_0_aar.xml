@@ -3,8 +3,9 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/67a4e3de6cbf095b51dc0c5285998348/transformed/dynamicanimation-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/67a4e3de6cbf095b51dc0c5285998348/transformed/dynamicanimation-1.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/67a4e3de6cbf095b51dc0c5285998348/transformed/dynamicanimation-1.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/67a4e3de6cbf095b51dc0c5285998348/transformed/dynamicanimation-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/4533a26362a56724b2a7bb70e1d09283/transformed/dynamicanimation-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/4533a26362a56724b2a7bb70e1d09283/transformed/dynamicanimation-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/4533a26362a56724b2a7bb70e1d09283/transformed/dynamicanimation-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

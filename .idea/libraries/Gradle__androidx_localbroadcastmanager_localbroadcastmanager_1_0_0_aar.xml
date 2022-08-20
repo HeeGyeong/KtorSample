@@ -3,8 +3,9 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/77a1fe37453a99d0d4fdc0982cdc3d93/transformed/localbroadcastmanager-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/77a1fe37453a99d0d4fdc0982cdc3d93/transformed/localbroadcastmanager-1.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/77a1fe37453a99d0d4fdc0982cdc3d93/transformed/localbroadcastmanager-1.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/77a1fe37453a99d0d4fdc0982cdc3d93/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/45144f845c586c52b18e1cf48794f591/transformed/localbroadcastmanager-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/45144f845c586c52b18e1cf48794f591/transformed/localbroadcastmanager-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/45144f845c586c52b18e1cf48794f591/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

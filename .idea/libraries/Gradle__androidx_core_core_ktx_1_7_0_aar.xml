@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.core:core-ktx:1.7.0@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/4c54d88cb05f00d5da7f4fd009e59989/transformed/core-ktx-1.7.0/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/4c54d88cb05f00d5da7f4fd009e59989/transformed/core-ktx-1.7.0/res" />
-      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/4c54d88cb05f00d5da7f4fd009e59989/transformed/core-ktx-1.7.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/e36aac50db085698ccd9b5d6b4e08f2a/transformed/core-ktx-1.7.0/res" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/e36aac50db085698ccd9b5d6b4e08f2a/transformed/core-ktx-1.7.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/e36aac50db085698ccd9b5d6b4e08f2a/transformed/core-ktx-1.7.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

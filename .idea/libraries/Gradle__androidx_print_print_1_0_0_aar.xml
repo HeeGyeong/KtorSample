@@ -1,13 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.print:print:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/46f0ae72253428e5ba313e3f301c80c9/transformed/print-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/e7fc68ec58130f03bedf2b3ee5861a1b/transformed/print-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/46f0ae72253428e5ba313e3f301c80c9/transformed/print-1.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/46f0ae72253428e5ba313e3f301c80c9/transformed/print-1.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/46f0ae72253428e5ba313e3f301c80c9/transformed/print-1.0.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/46f0ae72253428e5ba313e3f301c80c9/transformed/print-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/e7fc68ec58130f03bedf2b3ee5861a1b/transformed/print-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/e7fc68ec58130f03bedf2b3ee5861a1b/transformed/print-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/e7fc68ec58130f03bedf2b3ee5861a1b/transformed/print-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

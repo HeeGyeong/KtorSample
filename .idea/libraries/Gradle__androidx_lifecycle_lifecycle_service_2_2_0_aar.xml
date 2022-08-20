@@ -2,9 +2,10 @@
   <library name="Gradle: androidx.lifecycle:lifecycle-service:2.2.0@aar">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/475d832abb41dc990021a7906e52a0bc/transformed/lifecycle-service-2.2.0/res" />
-      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/475d832abb41dc990021a7906e52a0bc/transformed/lifecycle-service-2.2.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/475d832abb41dc990021a7906e52a0bc/transformed/lifecycle-service-2.2.0/res" />
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/475d832abb41dc990021a7906e52a0bc/transformed/lifecycle-service-2.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/501cbf6bcdce2c3322e2a31fa3c704df/transformed/lifecycle-service-2.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/501cbf6bcdce2c3322e2a31fa3c704df/transformed/lifecycle-service-2.2.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/501cbf6bcdce2c3322e2a31fa3c704df/transformed/lifecycle-service-2.2.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

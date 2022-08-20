@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.databinding:databinding-runtime:7.1.2@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/e7079f45da63ef30d1e0d43634abe21d/transformed/databinding-runtime-7.1.2/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/e7079f45da63ef30d1e0d43634abe21d/transformed/databinding-runtime-7.1.2/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/e7079f45da63ef30d1e0d43634abe21d/transformed/databinding-runtime-7.1.2/res" />
+      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/3b301baa1f9968eef4d69a1184ff7e95/transformed/databinding-runtime-7.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/3b301baa1f9968eef4d69a1184ff7e95/transformed/databinding-runtime-7.1.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/3b301baa1f9968eef4d69a1184ff7e95/transformed/databinding-runtime-7.1.2/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

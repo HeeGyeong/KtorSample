@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.lifecycle:lifecycle-process:2.4.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/ee8401cefc63a669f7995fd5a1deff3b/transformed/lifecycle-process-2.4.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/ee8401cefc63a669f7995fd5a1deff3b/transformed/lifecycle-process-2.4.0/res" />
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/ee8401cefc63a669f7995fd5a1deff3b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/3841e8b4869b7b7767ec104328d7c13c/transformed/lifecycle-process-2.4.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/3841e8b4869b7b7767ec104328d7c13c/transformed/lifecycle-process-2.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/3841e8b4869b7b7767ec104328d7c13c/transformed/lifecycle-process-2.4.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

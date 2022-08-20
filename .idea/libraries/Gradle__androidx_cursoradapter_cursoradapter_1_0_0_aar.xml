@@ -2,9 +2,10 @@
   <library name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/fb57ac3ad719569a3b714e4dfdddcadc/transformed/cursoradapter-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/fb57ac3ad719569a3b714e4dfdddcadc/transformed/cursoradapter-1.0.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/fb57ac3ad719569a3b714e4dfdddcadc/transformed/cursoradapter-1.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/fb57ac3ad719569a3b714e4dfdddcadc/transformed/cursoradapter-1.0.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/d0fe597c0522832b2b9da457634f50e0/transformed/cursoradapter-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/d0fe597c0522832b2b9da457634f50e0/transformed/cursoradapter-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/d0fe597c0522832b2b9da457634f50e0/transformed/cursoradapter-1.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

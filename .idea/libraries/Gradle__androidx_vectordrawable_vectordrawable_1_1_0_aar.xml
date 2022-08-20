@@ -2,9 +2,10 @@
   <library name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/fb68be45a13a19e331542404cc9ee6d1/transformed/vectordrawable-1.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/fb68be45a13a19e331542404cc9ee6d1/transformed/vectordrawable-1.1.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/fb68be45a13a19e331542404cc9ee6d1/transformed/vectordrawable-1.1.0/res" />
-      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/fb68be45a13a19e331542404cc9ee6d1/transformed/vectordrawable-1.1.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/6bafbdeceac2f3122a6717b065a5c72c/transformed/vectordrawable-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/6bafbdeceac2f3122a6717b065a5c72c/transformed/vectordrawable-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/6bafbdeceac2f3122a6717b065a5c72c/transformed/vectordrawable-1.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

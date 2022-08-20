@@ -65,4 +65,8 @@ dependencies {
     implementation "com.google.dagger:hilt-android:$hilt_version"
     kapt "com.google.dagger:hilt-android-compiler:$hilt_version"
     implementation 'androidx.activity:activity-ktx:1.5.1'
+
+    // koin
+    def koin_version = "3.2.0"
+    implementation "io.insert-koin:koin-android:$koin_version"
 }

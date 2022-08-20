@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.dagger:dagger-lint-aar:2.36@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/fb11fefaa6e53ea8e055809cf1f63573/transformed/dagger-lint-aar-2.36/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/fb11fefaa6e53ea8e055809cf1f63573/transformed/dagger-lint-aar-2.36/res" />
+      <root url="file://$PROJECT_DIR$/../AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-3/fb11fefaa6e53ea8e055809cf1f63573/transformed/dagger-lint-aar-2.36/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
